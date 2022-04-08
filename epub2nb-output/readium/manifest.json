@@ -1,0 +1,129 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Slávy dcera",
+    "identifier": "e6055585-0699-46bd-90de-f9043ab6debb",
+    "author": "Jan Kollár",
+    "language": "cs",
+    "Sigil version": "0.3.0"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0013.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/pd-88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "PŘEDZPĚV",
+      "href": "OEBPS/Text/Section0004.xhtml"
+    },
+    {
+      "title": "ZNĚLKY MILÉ",
+      "href": "OEBPS/Text/Section0005.xhtml"
+    },
+    {
+      "title": "JARO MI LÁSKU DAROVALO.",
+      "href": "OEBPS/Text/Section0006.xhtml"
+    },
+    {
+      "title": "KRŮPĚJE MÉHO ŽITÍ",
+      "href": "OEBPS/Text/Section0007.xhtml"
+    },
+    {
+      "title": "SVATÉ JMÉNO VLASTI",
+      "href": "OEBPS/Text/Section0008.xhtml"
+    },
+    {
+      "title": "BUĎME CELEK A NE DROBTOVÉ",
+      "href": "OEBPS/Text/Section0009.xhtml"
+    },
+    {
+      "title": "SLAVJAN (podle prostomluvy Ant. Marka)",
+      "href": "OEBPS/Text/Section0010.xhtml"
+    },
+    {
+      "title": "NÁPISY",
+      "href": "OEBPS/Text/Section0011.xhtml"
+    },
+    {
+      "title": "DOZPĚV",
+      "href": "OEBPS/Text/Section0012.xhtml"
+    }
+  ]
+}
