@@ -1,0 +1,381 @@
+{
+  "author": "Jan Kollár",
+  "contenttype": "poetry",
+  "edition": "beletrie",
+  "identifier": "kollar-slavy-dcera-b9a4dc5",
+  "languagecode": "cs",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Slávy dcera",
+  "revision": "b9a4dc5",
+  "generatedAt": {
+    "date": "Fri Apr 08 2022 10:29:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649413754192
+  },
+  "documents": [
+    {
+      "title": "Slávy dcera",
+      "file": "section0001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "section0002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slávy dcera",
+      "file": "section0002.html",
+      "words": 47,
+      "chars": 265,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 1,
+      "prev": "section0001.html",
+      "next": "section0014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slávy dcera",
+      "file": "section0014.html",
+      "words": 73,
+      "chars": 638,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 2,
+      "prev": "section0002.html",
+      "next": "section0003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slávy dcera",
+      "file": "section0003.html",
+      "words": 26,
+      "chars": 158,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 3,
+      "prev": "section0014.html",
+      "next": "section0004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slávy dcera",
+      "file": "section0004.html",
+      "words": 932,
+      "chars": 5393,
+      "ideas": 128,
+      "role": "chapter",
+      "order": 4,
+      "prev": "section0003.html",
+      "next": "section0005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "PŘEDZPĚV",
+              "id": "předzpěv",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Slávy dcera",
+      "file": "section0005.html",
+      "words": 216,
+      "chars": 1259,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 5,
+      "prev": "section0004.html",
+      "next": "section0006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "ZNĚLKY MILÉ",
+              "id": "znělky-milé",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Slávy dcera",
+      "file": "section0006.html",
+      "words": 1801,
+      "chars": 9817,
+      "ideas": 347,
+      "role": "chapter",
+      "order": 6,
+      "prev": "section0005.html",
+      "next": "section0007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "JARO MI LÁSKU DAROVALO.",
+              "id": "jaro-minbsplásku-darovalo",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Slávy dcera",
+      "file": "section0007.html",
+      "words": 974,
+      "chars": 5476,
+      "ideas": 196,
+      "role": "chapter",
+      "order": 7,
+      "prev": "section0006.html",
+      "next": "section0008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "KRŮPĚJE MÉHO ŽITÍ",
+              "id": "krůpěje-mého-žití",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Slávy dcera",
+      "file": "section0008.html",
+      "words": 913,
+      "chars": 5067,
+      "ideas": 181,
+      "role": "chapter",
+      "order": 8,
+      "prev": "section0007.html",
+      "next": "section0009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "SVATÉ JMÉNO VLASTI",
+              "id": "svaté-jméno-vlasti",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Slávy dcera",
+      "file": "section0009.html",
+      "words": 1312,
+      "chars": 7516,
+      "ideas": 269,
+      "role": "chapter",
+      "order": 9,
+      "prev": "section0008.html",
+      "next": "section0010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "BUĎME CELEK A NE DROBTOVÉ",
+              "id": "buďme-celek-anbspnenbspdrobtové",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Slávy dcera",
+      "file": "section0010.html",
+      "words": 519,
+      "chars": 3123,
+      "ideas": 105,
+      "role": "chapter",
+      "order": 10,
+      "prev": "section0009.html",
+      "next": "section0011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "SLAVJAN (podle prostomluvy Ant. Marka)",
+              "id": "slavjanpodle-prostomluvy-ant-marka",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Slávy dcera",
+      "file": "section0011.html",
+      "words": 192,
+      "chars": 1075,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 11,
+      "prev": "section0010.html",
+      "next": "section0012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "NÁPISY",
+              "id": "nápisy",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Slávy dcera",
+      "file": "section0012.html",
+      "words": 72,
+      "chars": 428,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 12,
+      "prev": "section0011.html",
+      "next": "section0013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "DOZPĚV",
+              "id": "dozpěv",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Slávy dcera",
+      "file": "section0013.html",
+      "words": 26,
+      "chars": 123,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 13,
+      "prev": "section0012.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 7110,
+      "chars": 40375,
+      "ideas": 1349
+    },
+    "chapters": {
+      "words": 7103,
+      "chars": 40338,
+      "ideas": 1344
+    }
+  }
+}

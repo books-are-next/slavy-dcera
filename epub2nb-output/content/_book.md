@@ -2,11 +2,16 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: poetry
   title: Slávy dcera
   identifier: e6055585-0699-46bd-90de-f9043ab6debb
   author: Jan Kollár
+  edition: beletrie
+  publisherShort: mkp
+  publisher: Městská knihovna v Praze
 readingOrder:
   - section0001.html
   - section0002.html
@@ -26,6 +31,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
