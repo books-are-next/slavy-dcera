@@ -11,6 +11,7 @@
   "identifier": "kollar-slavy-dcera-46722ae",
   "revision": "46722ae",
   "readingOrder": [
+    "promo.html",
     "section0001.html",
     "section0002.html",
     "section0014.html",
@@ -27,10 +28,22 @@
     "section0013.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:42:53 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652352173726
+    "date": "Thu May 12 2022 15:12:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652368333538
   },
   "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "section0001.html",
+      "toc": []
+    },
     {
       "title": "Slávy dcera",
       "file": "section0001.html",
@@ -38,8 +51,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 0,
-      "prev": null,
+      "order": 1,
+      "prev": "promo.html",
       "next": "section0002.html",
       "toc": [
         {
@@ -58,7 +71,7 @@
       "chars": 265,
       "ideas": 3,
       "role": "chapter",
-      "order": 1,
+      "order": 2,
       "prev": "section0001.html",
       "next": "section0014.html",
       "toc": [
@@ -78,7 +91,7 @@
       "chars": 638,
       "ideas": 7,
       "role": "chapter",
-      "order": 2,
+      "order": 3,
       "prev": "section0002.html",
       "next": "section0003.html",
       "toc": [
@@ -98,7 +111,7 @@
       "chars": 158,
       "ideas": 10,
       "role": "chapter",
-      "order": 3,
+      "order": 4,
       "prev": "section0014.html",
       "next": "section0004.html",
       "toc": [
@@ -118,7 +131,7 @@
       "chars": 5393,
       "ideas": 128,
       "role": "chapter",
-      "order": 4,
+      "order": 5,
       "prev": "section0003.html",
       "next": "section0005.html",
       "toc": [
@@ -146,7 +159,7 @@
       "chars": 1259,
       "ideas": 46,
       "role": "chapter",
-      "order": 5,
+      "order": 6,
       "prev": "section0004.html",
       "next": "section0006.html",
       "toc": [
@@ -174,7 +187,7 @@
       "chars": 9817,
       "ideas": 347,
       "role": "chapter",
-      "order": 6,
+      "order": 7,
       "prev": "section0005.html",
       "next": "section0007.html",
       "toc": [
@@ -202,7 +215,7 @@
       "chars": 5476,
       "ideas": 196,
       "role": "chapter",
-      "order": 7,
+      "order": 8,
       "prev": "section0006.html",
       "next": "section0008.html",
       "toc": [
@@ -230,7 +243,7 @@
       "chars": 5067,
       "ideas": 181,
       "role": "chapter",
-      "order": 8,
+      "order": 9,
       "prev": "section0007.html",
       "next": "section0009.html",
       "toc": [
@@ -258,7 +271,7 @@
       "chars": 7516,
       "ideas": 269,
       "role": "chapter",
-      "order": 9,
+      "order": 10,
       "prev": "section0008.html",
       "next": "section0010.html",
       "toc": [
@@ -286,7 +299,7 @@
       "chars": 3123,
       "ideas": 105,
       "role": "chapter",
-      "order": 10,
+      "order": 11,
       "prev": "section0009.html",
       "next": "section0011.html",
       "toc": [
@@ -314,7 +327,7 @@
       "chars": 1075,
       "ideas": 31,
       "role": "chapter",
-      "order": 11,
+      "order": 12,
       "prev": "section0010.html",
       "next": "section0012.html",
       "toc": [
@@ -342,7 +355,7 @@
       "chars": 428,
       "ideas": 15,
       "role": "chapter",
-      "order": 12,
+      "order": 13,
       "prev": "section0011.html",
       "next": "section0013.html",
       "toc": [
@@ -370,7 +383,7 @@
       "chars": 123,
       "ideas": 6,
       "role": "chapter",
-      "order": 13,
+      "order": 14,
       "prev": "section0012.html",
       "next": null,
       "toc": [
