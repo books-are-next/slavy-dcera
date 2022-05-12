@@ -13,6 +13,7 @@ meta:
   publisherShort: mkp
   publisher: Městská knihovna v Praze
 readingOrder:
+  - promo.html
   - section0001.html
   - section0002.html
   - section0014.html
