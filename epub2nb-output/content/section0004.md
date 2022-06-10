@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## PŘEDZPĚV 
 
 Aj, zde leží zem ta, před okem mým smutně slzícím, 
@@ -228,7 +230,9 @@ A zmatenost jedněch často celosti hoří. 
 
 Co sto věků bludných hodlalo, zvrtne doba.
 
-  
+</section>
+
+<section>
 
 I. 
 
@@ -240,7 +244,9 @@ Chceš-li mi však čeho dopřáti, 
 
 Slávo, matko milá! dej mi křídla,
 
-  
+</section>
+
+<section>
 
 Na nichžto bych všudy, kde jsou sídla 
 
@@ -250,7 +256,9 @@ Bratrů Slávu, mohl léta ti, 
 
 Potom kde jsou Visly, Volhy zřídla.
 
-  
+</section>
+
+<section>
 
 Tak jak motýl z květu na květ létá, 
 
@@ -263,3 +271,5 @@ Tou bych pastvou věčně oči bavil 
 A všem kmenům, po všech rodinách 
 
 Zpěvem matku, jako dceru slavil.
+
+</section>

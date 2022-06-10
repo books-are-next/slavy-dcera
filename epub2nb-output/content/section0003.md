@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 OBSAH:
 
 PŘEDZPĚV    
@@ -21,3 +23,5 @@ SLAVJAN (podle prostomluvy Ant. Marka)  
 NÁPISY  
 
 DOZPĚV
+
+</section>

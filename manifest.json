@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kollar-slavy-dcera-1d3eb6a",
-  "revision": "1d3eb6a",
+  "identifier": "kollar-slavy-dcera-a4d1170",
+  "revision": "a4d1170",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -28,8 +28,8 @@
     "section0013.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:19:48 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870788266
+    "date": "Fri Jun 10 2022 17:55:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883758318
   },
   "documents": [
     {
@@ -47,9 +47,9 @@
     {
       "title": "Slávy dcera",
       "file": "section0001.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -399,14 +399,14 @@
   ],
   "totals": {
     "all": {
-      "words": 7110,
+      "words": 7111,
       "chars": 40375,
-      "ideas": 1349
+      "ideas": 1350
     },
     "chapters": {
-      "words": 7103,
+      "words": 7104,
       "chars": 40338,
-      "ideas": 1344
+      "ideas": 1345
     }
   }
 }
