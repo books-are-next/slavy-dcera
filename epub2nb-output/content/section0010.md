@@ -1,5 +1,5 @@
 ---
-contentType: prose
+contentType: poetry
 ---
 
 ## SLAVJAN (podle prostomluvy Ant. Marka) 
