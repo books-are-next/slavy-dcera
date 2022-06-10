@@ -1,5 +1,5 @@
 ---
-contentType: prose
+contentType: poetry
 ---
 
 Znění tohoto textu vychází z díla Slávy dcera tak, jak bylo vydáno v nakladatelství Mladá fronta v roce 1951 (KOLLÁR, Jan. Slávy dcera. Praha : Mladá fronta, 1951. 98 s. Květy české poezie, sv.15). 

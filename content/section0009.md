@@ -1,5 +1,5 @@
 ---
-contentType: prose
+contentType: poetry
 ---
 
 ## BUĎME CELEK A NE DROBTOVÉ  
