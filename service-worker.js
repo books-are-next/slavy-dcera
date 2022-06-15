@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-199fb1a';
+const CACHE = 'cache-5ee73aa';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./section0001.html","./section0002.html","./section0003.html","./section0004.html","./section0005.html","./section0006.html","./section0007.html","./section0008.html","./section0009.html","./section0010.html","./section0011.html","./section0012.html","./section0013.html","./section0014.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/88x31.png","./resources/obalka.jpg","./resources/pd-88x31.png","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./index.html","./manifest.json","./promo.html","./section0001.html","./section0002.html","./section0003.html","./section0004.html","./section0005.html","./section0006.html","./section0007.html","./section0008.html","./section0009.html","./section0010.html","./section0011.html","./section0012.html","./section0013.html","./section0014.html","./assets/android-chrome-192x192.png","./assets/android-chrome-256x256.png","./assets/android-chrome-144x144.png","./assets/android-chrome-36x36.png","./assets/android-chrome-384x384.png","./assets/android-chrome-48x48.png","./assets/android-chrome-512x512.png","./assets/android-chrome-72x72.png","./assets/android-chrome-96x96.png","./assets/apple-touch-icon-1024x1024.png","./assets/apple-touch-icon-114x114.png","./assets/apple-touch-icon-120x120.png","./assets/apple-touch-icon-144x144.png","./assets/apple-touch-icon-152x152.png","./assets/apple-touch-icon-167x167.png","./assets/apple-touch-icon-180x180.png","./assets/apple-touch-icon-57x57.png","./assets/apple-touch-icon-60x60.png","./assets/apple-touch-icon-72x72.png","./assets/apple-touch-icon-76x76.png","./assets/apple-touch-icon-precomposed.png","./assets/apple-touch-icon.png","./assets/cover-1200x1200.png","./assets/cover-1200x620.png","./assets/cover-1600x2560.png","./assets/cover-398x566.png","./assets/favicon-16x16.png","./assets/favicon-32x32.png","./assets/favicon-48x48.png","./assets/favicon.ico","./assets/icon.png","./assets/manifest.webmanifest","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/88x31.png","./resources/obalka.jpg","./resources/pd-88x31.png","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
