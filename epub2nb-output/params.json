@@ -6,7 +6,7 @@
       "title": "Slávy dcera",
       "identifier": "e6055585-0699-46bd-90de-f9043ab6debb",
       "author": "Jan Kollár",
-      "edition": "beletrie",
+      "edition": "poezie",
       "publisherShort": "mkp",
       "publisher": "Městská knihovna v Praze"
     },
@@ -330,6 +330,6 @@
       "user": "books-are-next",
       "repo": "slavy-dcera"
     },
-    "generatedAt": 1655271721135
+    "generatedAt": 1655380989601
   }
 }

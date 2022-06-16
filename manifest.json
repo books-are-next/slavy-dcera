@@ -5,11 +5,11 @@
   "title": "Slávy dcera",
   "author": "Jan Kollár",
   "publisher": "Městská knihovna v Praze",
-  "edition": "beletrie",
+  "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kollar-slavy-dcera-5ee73aa",
-  "revision": "5ee73aa",
+  "identifier": "kollar-slavy-dcera-8b95f75",
+  "revision": "8b95f75",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -28,8 +28,8 @@
     "section0013.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:57:10 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272630967
+    "date": "Thu Jun 16 2022 12:04:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655381081126
   },
   "documents": [
     {
@@ -400,7 +400,7 @@
   "totals": {
     "all": {
       "words": 7111,
-      "chars": 40375,
+      "chars": 40373,
       "ideas": 1350
     },
     "chapters": {

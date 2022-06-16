@@ -9,7 +9,7 @@ meta:
   title: Slávy dcera
   identifier: e6055585-0699-46bd-90de-f9043ab6debb
   author: Jan Kollár
-  edition: beletrie
+  edition: poezie
   publisherShort: mkp
   publisher: Městská knihovna v Praze
 readingOrder:
