@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kollar-slavy-dcera-89edfe1",
-  "revision": "89edfe1",
+  "identifier": "kollar-slavy-dcera-a48c063",
+  "revision": "a48c063",
   "readingOrder": [
     "promo.html",
     "section0001.html",
@@ -28,8 +28,8 @@
     "section0013.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 23:04:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924676678
+    "date": "Fri Oct 07 2022 13:58:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151125655
   },
   "documents": [
     {
